@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">YNAB MCP Server</h1>
-
+ 
 <p align="center">
   <strong>The complete Model Context Protocol server for YNAB</strong><br>
   <em>Give your AI assistant full access to your budget</em>
